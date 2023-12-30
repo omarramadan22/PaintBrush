@@ -9,4 +9,4 @@ Features :
 4 - pencil : draw freely with pencil 
 5 - eraser : erase any part of the drawings
 6 - clear : clear the whole screen
-7 - undo : undo your last acion at any moment  
+7 - undo : undo your last action at any moment to correct mistakes
